@@ -1,0 +1,32 @@
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+H:\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.AssemblyReference.cache
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\refint\ConsoleApp7.dll
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache
+H:\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.AssemblyReference.cache
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\refint\ConsoleApp7.dll
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache
+H:\Resupmiet\Lab 03 - System.IO  Review\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
